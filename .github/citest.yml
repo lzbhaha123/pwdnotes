@@ -1,0 +1,5 @@
+dev-testing:
+  script:
+    - echo "Running dev tests."
+    - sleep 10
+    - echo "Dev tests success!"
